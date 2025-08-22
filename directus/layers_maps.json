@@ -1,0 +1,18 @@
+{
+    "collection": "layers_maps",
+    "meta": {
+        "insert_order": 1,
+        "create": true,
+        "update": true,
+        "delete": true,
+        "preserve_ids": false,
+        "ignore_on_update": []
+    },
+    "data": [
+        {
+            "_sync_id": "layer-schlafplaetze-map-ulf-gebhardt.de",
+            "layers_id": "layer-schlafplaetze",
+            "maps_id": "map-ulf-gebhardt.de"
+        }
+    ]
+}
