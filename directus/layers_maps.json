@@ -13,6 +13,21 @@
             "_sync_id": "layer-schlafplaetze-map-ulf-gebhardt.de",
             "layers_id": "layer-schlafplaetze",
             "maps_id": "map-ulf-gebhardt.de"
+        },
+        {
+            "_sync_id": "layer-ziele-map-ulf-gebhardt.de",
+            "layers_id": "layer-ziele",
+            "maps_id": "map-ulf-gebhardt.de"
+        },
+        {
+            "_sync_id": "layer-orte-map-ulf-gebhardt.de",
+            "layers_id": "layer-orte",
+            "maps_id": "map-ulf-gebhardt.de"
+        },
+        {
+            "_sync_id": "layer-shelter-map-ulf-gebhardt.de",
+            "layers_id": "layer-shelter",
+            "maps_id": "map-ulf-gebhardt.de"
         }
     ]
 }
