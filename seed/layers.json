@@ -20,7 +20,11 @@
             "index_plus_button": true,
             "public_edit_items": false,
             "listed": true,
-            "item_presets": null
+            "item_presets": null,
+            "menuText": "Neuen Schlafplatz hinzufügen",
+            "markerIcon" : "marker-pin",
+            "markerShape" : "square",
+            "sort": 1
         },
         {
             "_sync_id": "layer-ziele",
@@ -33,7 +37,11 @@
             "index_plus_button": true,
             "public_edit_items": false,
             "listed": true,
-            "item_presets": null
+            "item_presets": null,
+            "menuText": "Neues Ziel hinzufügen",
+            "markerIcon" : "marker-pin",
+            "markerShape" : "square",
+            "sort": 1
         },
         {
             "_sync_id": "layer-orte",
@@ -46,7 +54,11 @@
             "index_plus_button": true,
             "public_edit_items": false,
             "listed": true,
-            "item_presets": null
+            "item_presets": null,
+            "menuText": "Neuen ort hinzufügen",
+            "markerIcon" : "marker-pin",
+            "markerShape" : "square",
+            "sort": 1
         },
         {
             "_sync_id": "layer-shelter",
@@ -59,7 +71,11 @@
             "index_plus_button": true,
             "public_edit_items": false,
             "listed": true,
-            "item_presets": null
+            "item_presets": null,
+            "menuText": "Neues Shelter hinzufügen",
+            "markerIcon" : "marker-pin",
+            "markerShape" : "square",
+            "sort": 1
         }
     ]
 }
