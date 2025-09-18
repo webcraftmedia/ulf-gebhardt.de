@@ -12,7 +12,7 @@
         {
             "_sync_id": "layer-schlafplaetze",
             "name": "Schlafplätze",
-            "itemType": "type-flex",
+            "itemType": "type-text-gallery",
             "userProfileLayer": false,
             "menuColor": "#2ECDA7",
             "markerDefaultColor2": null,
@@ -25,7 +25,7 @@
         {
             "_sync_id": "layer-ziele",
             "name": "Ziele",
-            "itemType": "type-flex",
+            "itemType": "type-text-gallery",
             "userProfileLayer": false,
             "menuColor": "#2ECDA7",
             "markerDefaultColor2": null,
@@ -38,7 +38,7 @@
         {
             "_sync_id": "layer-orte",
             "name": "Orte",
-            "itemType": "type-flex",
+            "itemType": "type-text-gallery",
             "userProfileLayer": false,
             "menuColor": "#2ECDA7",
             "markerDefaultColor2": null,
@@ -51,7 +51,7 @@
         {
             "_sync_id": "layer-shelter",
             "name": "Shelter",
-            "itemType": "type-flex",
+            "itemType": "type-text-gallery",
             "userProfileLayer": false,
             "menuColor": "#2ECDA7",
             "markerDefaultColor2": null,
