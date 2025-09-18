@@ -22,7 +22,7 @@
             "listed": true,
             "item_presets": null,
             "menuText": "Neuen Schlafplatz hinzufügen",
-            "markerIcon" : "marker-pin",
+            "markerIcon" : "marker-point",
             "markerShape" : "square",
             "sort": 1
         },
@@ -39,7 +39,7 @@
             "listed": true,
             "item_presets": null,
             "menuText": "Neues Ziel hinzufügen",
-            "markerIcon" : "marker-pin",
+            "markerIcon" : "marker-point",
             "markerShape" : "square",
             "sort": 1
         },
@@ -56,7 +56,7 @@
             "listed": true,
             "item_presets": null,
             "menuText": "Neuen ort hinzufügen",
-            "markerIcon" : "marker-pin",
+            "markerIcon" : "marker-point",
             "markerShape" : "square",
             "sort": 1
         },
@@ -73,7 +73,7 @@
             "listed": true,
             "item_presets": null,
             "menuText": "Neues Shelter hinzufügen",
-            "markerIcon" : "marker-pin",
+            "markerIcon" : "marker-point",
             "markerShape" : "square",
             "sort": 1
         }
